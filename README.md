@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**hilamisoumia-cmd/hilamisoumia-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Soumia 👋
 
-Here are some ideas to get you started:
+🎓 Networks, Cybersecurity & Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in network security, intrusion detection,
+machine learning, and Industrial IoT security.
+
+### 🛠️ Skills
+- Programming: Python, SQL, PHP
+- Networking: TCP/IP, DNS, DHCP
+- Security: Network Security, IDS, OT/IIoT Security
+- AI/ML: Scikit-learn, Random Forest, XGBoost
+- Tools: Linux, Wireshark, GNS3, Git
+
+### 🚀 Projects
+- Intelligent Intrusion Detection System for OT/IIoT
+- Network Security Labs
+- Linux Administration & Security Labs
+
+### 📫 Connect
+- LinkedIn: www.linkedin.com/in/soumia-hilami-5461312b1
